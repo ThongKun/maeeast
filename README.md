@@ -2,7 +2,7 @@
 
 I'm **Jenn** - a developer who loves all things **code** and **teaching others**!
 
-![hello](https://giphy.com/gifs/26xBukhJ0i8KXADYc/html5)
+![hello](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
 
 ___
 
