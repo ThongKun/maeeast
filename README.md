@@ -2,7 +2,7 @@
 
 ### - a developer who loves all things **code** and **teaching others**!
 
-![laptop](https://media.giphy.com/media/eHKw6v7CGCAbFJbTlN/giphy.gif)
+<img src="https://media.giphy.com/media/eHKw6v7CGCAbFJbTlN/giphy.gif" height=300 />
 
 ---
 
