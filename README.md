@@ -1,7 +1,8 @@
-# 👋 Hi there ✨I'm **Jenn**✨
+# 👋 Hi there, I'm ✨**Jenn**✨
 
 ### - a developer who loves all things **code** and **teaching others**!
-<img src="https://media.giphy.com/media/eHKw6v7CGCAbFJbTlN/giphy.gif" width="300"> <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="300">
+
+![laptop](https://media.giphy.com/media/eHKw6v7CGCAbFJbTlN/giphy.gif)
 
 ---
 
