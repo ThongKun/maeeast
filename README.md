@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ### I'm **Jenn** - a developer who loves all things **code** and **teaching others**!
-![hello](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif =150x)
+
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="150">
 ___
 
 - 💖 My favorite things to work on are **CSS** and **JavaScript**. I love customizing **Squarespace** and **WordPress** templates!
